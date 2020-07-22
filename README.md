@@ -1,1 +1,1 @@
-# demo_end_to_end_datastreaming_linkAja
+This repository for purpose demo Data Architecture End to End Data Streaming using Kafka, Python, Spark Streaming(pyspark) and MySQL
